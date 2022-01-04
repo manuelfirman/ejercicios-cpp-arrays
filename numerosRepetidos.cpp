@@ -2,6 +2,13 @@
 
 using namespace std;
 
+/* CONSIGNA
+ Dada una lista de 10 números, cargarlos en un vector. Luego detectar si en el 
+vector hay algún elemento repetido. De haberlo, indicarlo con un cartel 
+aclaratorio “Hay repetidos”, de lo contrario indicar “No hay repetidos”
+*/
+
+
 int main()
 {
     //DECLARACION DE VECTOR
