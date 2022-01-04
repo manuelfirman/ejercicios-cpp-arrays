@@ -2,6 +2,22 @@
 
 using namespace std;
 
+/*
+Una empresa comercializa 15 tipos de artículos y por cada venta realizada 
+genera un registro con los siguientes datos:
+• Número de artículo (1 a 15).
+• Cantidad vendida.
+Puede haber varios registros para el mismo artículo y el último se indica 
+número de artículo igual a cero.
+Se pide determinar e informar:
+a. El número de artículo que más se vendió en total.
+b. Los números de artículos que no registraron ventas.
+c. La cantidad de unidades vendidas para el artículo número 10.
+Nota: tener en cuenta el concepto de “registro” y el planteo de estructura 
+principal separado de consignas (ver videos de ciclos combinados y ejercicios 
+resueltos de ciclos combinados)
+*/
+
 int main()
 {
     //VARIABLES
